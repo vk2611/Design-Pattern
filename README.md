@@ -1,1 +1,1 @@
-# Practising Desgin Patterns
+# Practicing Desgin Patterns
